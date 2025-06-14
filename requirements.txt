@@ -1,0 +1,16 @@
+python-dotenv
+ipykernel
+langchain-community
+pypdf
+arxiv
+pymupdf
+wikipedia
+streamlit
+langchain_groq
+langchain_core
+duckdb
+duckduckgo-search
+huggingface_hub
+
+langchain==0.3.25
+
